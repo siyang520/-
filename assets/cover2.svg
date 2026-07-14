@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <rect width="1280" height="720" fill="#fff"/>
+  <rect x="80" y="70" width="440" height="320" fill="#0052d9" stroke="#000" stroke-width="28"/>
+  <rect x="620" y="180" width="380" height="380" fill="#ffd100" stroke="#000" stroke-width="28"/>
+  <rect x="230" y="450" width="580" height="160" fill="#e6212a" stroke="#000" stroke-width="28"/>
+  <text x="120" y="620" fill="#000" font-family="sans-serif" font-size="72" font-weight="700">作品图 2</text>
+</svg>
